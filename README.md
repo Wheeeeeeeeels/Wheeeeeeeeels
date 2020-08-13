@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-pulls/<user>/<repo>.svg
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=prs,stars&count_private=true&theme=dracula)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML&theme=dracula)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 
 
