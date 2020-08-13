@@ -41,5 +41,6 @@ Some awesome communities I'm involved with:CodeForces,Kaggle,TopCoder
 
 #### Get in touch
 ![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
+![](https://img.shields.io/badge/https://twitter.com/krash44272973-green)
 
 
