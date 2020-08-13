@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **Wheeeeeeeeels/Wheeeeeeeeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Wheeeeeeeeels
+#### Wheeeeeeeeels
 ---
 <b><i> Premature optimization is the root of all evil. <i><b>
 
@@ -30,8 +30,15 @@ Wheeeeeeeeels
 ![](https://camo.githubusercontent.com/b28933df61eeb6f25f4fa2e9db3ebe74b555bf13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666)
 ![](https://camo.githubusercontent.com/b49580734a952ce83591f98927b2beeddfcb814b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666)
 
+I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on Natural Language Processing, Computer Graphics.
+Some awesome communities I'm involved with:CodeForces,Kaggle,TopCoder
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=prs,stars&count_private=true&theme=dracula)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+
+#### Get in touch
+![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
 
 
