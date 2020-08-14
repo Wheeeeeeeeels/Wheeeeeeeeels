@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/b49580734a952ce83591f98927b2beeddfcb814b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666)
 
 ##### I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on Natural Language Processing, Computer Graphics.
-##### Some awesome communities I'm involved with:CodeForces,Kaggle,TopCoder
+##### Some awesome communities I'm involved with: <b>CodeForces,Kaggle,TopCoder</b>
 
 
 
