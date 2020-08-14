@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Rust-orange?logo=Rust)
 ![](https://img.shields.io/badge/Java-yellowgreen?logo=Java)
 ![](https://img.shields.io/badge/Go-blue?logo=Go)
-
+![](https://img.shields.io/badge/Taichi-lightgrey?logo=Taichi)
 
 ![](https://camo.githubusercontent.com/b28933df61eeb6f25f4fa2e9db3ebe74b555bf13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666)
 ![](https://camo.githubusercontent.com/b49580734a952ce83591f98927b2beeddfcb814b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666)
-![](https://img.shields.io/badge/Taichi-black?logo=Taichi)
+
+![](https://img.shields.io/badge/Unity-lightgrey?logo=Unity)
+![](https://img.shields.io/badge/React-blue?logo=React)
+![](https://img.shields.io/badge/Vue-9cf?logo=Vue.js)
 
 ##### I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on Natural Language Processing, Computer Graphics.
 ##### Some awesome communities I'm involved with: <b>CodeForces,Kaggle,TopCoder</b>
