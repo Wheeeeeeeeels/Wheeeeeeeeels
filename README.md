@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Unity-lightgrey?logo=Unity)
 ![](https://img.shields.io/badge/React-blue?logo=React)
-![](https://img.shields.io/badge/Vue-9cf?logo=Vue.js)
+![](https://img.shields.io/badge/Vue-grey?logo=Vue.js)
 
 ##### I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on Natural Language Processing, Computer Graphics.
 ##### Some awesome communities I'm involved with: <b>CodeForces,Kaggle,TopCoder</b>
