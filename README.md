@@ -22,17 +22,20 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/3725a06fab11dc512456ae9570c0d86819486fac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861736b656c6c2d3135373262363f7374796c653d666c61742d737175617265266c6f676f3d4861736b656c6c266c6162656c436f6c6f723d313537326236)
 ![](https://camo.githubusercontent.com/33a2b92c2121cb761ca51de627822e18be9fb2ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f43616d6c2d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d4f43616d6c266c6162656c436f6c6f723d663764663165266c6f676f436f6c6f723d303030)
 ![](https://camo.githubusercontent.com/9ded1ae74bb4c34e10d43f18f8038e4837a9187d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d666666)
-![](https://camo.githubusercontent.com/42bd9bc8839ffc7a306873ae956d984bdb00ee9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d666666)
 ![](https://img.shields.io/badge/Rust-orange?logo=Rust)
+![](https://camo.githubusercontent.com/42bd9bc8839ffc7a306873ae956d984bdb00ee9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d666666)
 ![](https://img.shields.io/badge/Java-yellowgreen?logo=Java)
 ![](https://img.shields.io/badge/TypeScript-purple?logo=TypeScript)
 
 ![](https://camo.githubusercontent.com/b28933df61eeb6f25f4fa2e9db3ebe74b555bf13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666)
 ![](https://camo.githubusercontent.com/b49580734a952ce83591f98927b2beeddfcb814b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666)
+![](https://img.shields.io/badge/Caffe-purple?logo=Caffe)
 
 ![](https://img.shields.io/badge/Unity-lightgrey?logo=Unity)
 ![](https://img.shields.io/badge/React-blue?logo=React)
 ![](https://img.shields.io/badge/Vue-grey?logo=Vue.js)
+![](https://img.shields.io/badge/Flutter-grey?logo=flutter)
+![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
 ##### I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on Natural Language Processing, Computer Graphics.
 ##### Some awesome communities I'm involved with: <b>CodeForces,Kaggle,TopCoder</b>
