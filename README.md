@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/42bd9bc8839ffc7a306873ae956d984bdb00ee9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d666666)
 ![](https://img.shields.io/badge/Agda-darkyellow?logo=Agda)
 ![](https://img.shields.io/badge/Kotlin-lightgrey?logo=kotlin)
-![](https://img.shields.io/badge/Java-yellowgreen?logo=Java)
-![](https://img.shields.io/badge/Ruby-darkblue?logo=Ruby)
+![](https://img.shields.io/badge/Java-darkblue?logo=Java)
 ![](https://img.shields.io/badge/TypeScript-purple?logo=TypeScript)
 
 ![](https://camo.githubusercontent.com/b28933df61eeb6f25f4fa2e9db3ebe74b555bf13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666)
