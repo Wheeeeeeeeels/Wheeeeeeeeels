@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
 
-##### I'm a developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>Natural Language Processing, Computer Graphics and programming language theory</i></b>.
+##### I'm a Multilingual developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>Natural Language Processing, Computer Graphics and programming language theory</i></b>.
 ##### Some awesome communities I'm involved with:
 ![](https://img.shields.io/badge/CodeForces-grey?logo=CodeForces)![](https://img.shields.io/badge/Kaggle-grey?logo=Kaggle)![](https://img.shields.io/badge/TopCoder-grey?logo=TopCoder)
 
