@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Flutter-grey?logo=flutter)
 ![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
+##### Attention 
+![](https://img.shields.io/badge/LLVM-grey?logo=llvm)
+![](https://img.shields.io/badge/TVM-grey?logo=tvm)
 
 ##### I'm a Multilingual developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>Natural Language Processing, Computer Graphics,Distributed Systems and Programming Language heory</i></b>.
 ##### Some awesome communities I'm involved with:
