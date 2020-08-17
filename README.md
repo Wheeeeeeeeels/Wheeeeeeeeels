@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/LLVM-grey?logo=llvm)
 ![](https://img.shields.io/badge/TVM-grey?logo=tvm)
 ![](https://img.shields.io/badge/deepin-grey?logo=deepin)
-![](https://img.shields.io/badge/webassembly-lightgrey?logo=webassembly)
+![](https://img.shields.io/badge/WebAssembly-lightgrey?logo=WebAssembly)
 
 
 ##### I'm a Multilingual developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>Natural Language Processing, Computer Graphics,Distributed Systems and Programming Language heory</i></b>.
