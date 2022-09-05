@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&show_icons=true&hide_border=true&theme=dark&hide=HTML,CSS,JavaScript)
