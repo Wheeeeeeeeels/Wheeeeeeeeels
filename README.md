@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Flutter-grey?logo=flutter)
 ![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
-##### Recent Attention 
+##### Recent Attention
+![](https://img.shields.io/badge/oceanbase-green?logo=oceanbase)
+![](https://img.shields.io/badge/risingwave-red?logo=risingwave)
 ![](https://img.shields.io/badge/LLVM-grey?logo=llvm)
 ![](https://img.shields.io/badge/TVM-grey?logo=tvm)
 ![](https://img.shields.io/badge/deepin-grey?logo=deepin)
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=dracula)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=gruvbox&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 
 ### 👀 Activity Graph
 [![MaybeShewill-CV's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wheeeeeeeeels&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
