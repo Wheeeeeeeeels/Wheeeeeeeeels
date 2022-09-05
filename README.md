@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Caffe-purple?logo=Caffe)
 
 ![](https://img.shields.io/badge/Unity-lightgrey?logo=Unity)
-![](https://img.shields.io/badge/UE4-lightgrey?logo=UE)
+![](https://img.shields.io/badge/UE5-lightgrey?logo=UE)
 ![](https://img.shields.io/badge/React-blue?logo=React)
 ![](https://img.shields.io/badge/Vue-grey?logo=Vue.js)
 ![](https://img.shields.io/badge/Flutter-grey?logo=flutter)
 ![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
 ##### Recent Attention
-![](https://img.shields.io/badge/oceanbase-green?logo=oceanbase)
-![](https://img.shields.io/badge/risingwave-red?logo=risingwave)
+![](https://img.shields.io/badge/OceanBase-green?logo=oceanbase)
+![](https://img.shields.io/badge/RisingWave-red?logo=risingwave)
 ![](https://img.shields.io/badge/LLVM-grey?logo=llvm)
 ![](https://img.shields.io/badge/TVM-grey?logo=tvm)
 ![](https://img.shields.io/badge/deepin-grey?logo=deepin)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CodeForces-grey?logo=CodeForces)![](https://img.shields.io/badge/Kaggle-grey?logo=Kaggle)![](https://img.shields.io/badge/TopCoder-grey?logo=TopCoder)![](https://img.shields.io/badge/Codewars-grey?logo=Codewars)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=dracula)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=highcontrast)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=gruvbox&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 
 ### 👀 Activity Graph
@@ -66,6 +66,3 @@ Here are some ideas to get you started:
 #### Get in touch
 ![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&show_icons=true&hide_border=true&theme=dark&hide=HTML,CSS,JavaScript)
