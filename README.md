@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=highcontrast)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=highcontrast&count_private=true)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&show_icons=true&hide_border=true&theme=highcontrast&hide=HTML,CSS,JavaScript)
+
 
 ### Activity Graph
 [![MaybeShewill-CV's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wheeeeeeeeels&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -66,3 +67,6 @@ Here are some ideas to get you started:
 #### Get in touch
 ![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=highcontrast&count_private=true)]###(https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+
