@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=highcontrast)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=highcontrast&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS&theme=highcontrast&count_private=true)
 
 
 ### Activity Graph
