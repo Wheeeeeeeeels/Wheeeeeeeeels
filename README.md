@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CodeForces-grey?logo=CodeForces)![](https://img.shields.io/badge/Kaggle-grey?logo=Kaggle)![](https://img.shields.io/badge/TopCoder-grey?logo=TopCoder)![](https://img.shields.io/badge/Codewars-grey?logo=Codewars)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&count_private=true&theme=)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&width=60&count_private=true&theme=)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS,JavaScript,Shell&theme=&count_private=true)
 
 #### Get in touch
