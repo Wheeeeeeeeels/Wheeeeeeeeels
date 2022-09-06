@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wheeeeeeeeels&hide=stars&height=10&width=50&count_private=true&theme=)](https://github.com/Wheeeeeeeeels/Wheeeeeeeeels)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS,JavaScript,Shell&theme=&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wheeeeeeeeels&layout=compact&hide=HTML,CSS,JavaScript,Shell&theme=&count_private=true&width=60)
 
 #### Get in touch
 ![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
