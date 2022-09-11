@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/9ded1ae74bb4c34e10d43f18f8038e4837a9187d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d666666)
 ![](https://img.shields.io/badge/Rust-orange?logo=Rust)
 ![](https://camo.githubusercontent.com/42bd9bc8839ffc7a306873ae956d984bdb00ee9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d666666)
-![](https://img.shields.io/badge/C%2B%2B-9cf?logo=C++)
+![](https://img.shields.io/badge/C%2B%2B-red?logo=C++)
 ![](https://img.shields.io/badge/Agda-darkyellow?logo=Agda)
 ![](https://img.shields.io/badge/Kotlin-lightgrey?logo=kotlin)
 ![](https://img.shields.io/badge/Go-black?logo=Go)
