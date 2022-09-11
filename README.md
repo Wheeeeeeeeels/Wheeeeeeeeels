@@ -65,6 +65,40 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2038%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 196 Contributions in the Year 2022
+ > 
+> 📦 91.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 43 Private Repositories  
+ > 
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Wheeeeeeeeels/Wheeeeeeeeels/master/charts/bar_graph.png) 
+
+
+ Last Updated on 11/09/2022 14:29:39 UTC
 <!--END_SECTION:waka-->
 
 
