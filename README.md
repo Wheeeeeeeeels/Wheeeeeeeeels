@@ -67,9 +67,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-
-
 
 **This Week I Spent My Time On** 
 
@@ -82,14 +79,6 @@ Markdown                 45 mins             ░░░░░░░░░░░�
 Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
 CMake                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Wheeeeeeeeels/Wheeeeeeeeels/master/charts/bar_graph.png) 
-
-
- Last Updated on 11/09/2022 15:07:49 UTC
 <!--END_SECTION:waka-->
 
 
