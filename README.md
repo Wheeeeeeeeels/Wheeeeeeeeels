@@ -77,9 +77,5 @@ Markdown                 57 mins             ░░░░░░░░░░░�
 Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
 CMake                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22
 ```
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Wheeeeeeeeels/Wheeeeeeeeels/master/charts/bar_graph.png) 
-
  Last Updated on 11/09/2022 16:49:27 UTC
 <!--END_SECTION:waka-->
