@@ -65,19 +65,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2032%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-
-💬 Programming Languages: 
-C++                      25 hrs 54 mins      █████████████████████░░░░   84.54% 
-C                        2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-Markdown                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-CMake                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
-```
-
-Last Updated on 11/09/2022 18:52:04 UTC
+ Last Updated on 12/09/2022 14:16:07 UTC
 <!--END_SECTION:waka-->
