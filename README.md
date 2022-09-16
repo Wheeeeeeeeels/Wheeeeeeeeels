@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -80,5 +80,5 @@ Text                     40 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/09/2022 18:51:55 UTC
+ Last Updated on 16/09/2022 18:55:46 UTC
 <!--END_SECTION:waka-->
