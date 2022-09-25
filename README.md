@@ -67,6 +67,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2034%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/09/2022 18:52:42 UTC
+```text
+💬 Programming Languages: 
+C++                      16 hrs 4 mins       ███████████████░░░░░░░░░░   62.67% 
+Markdown                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+C                        3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+CMake                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+ObjectiveC               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+
+```
+
+
+ Last Updated on 25/09/2022 18:52:15 UTC
 <!--END_SECTION:waka-->
