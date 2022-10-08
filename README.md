@@ -71,12 +71,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 15 mins       ████████████████████████░   98.7% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/10/2022 18:58:37 UTC
+ Last Updated on 08/10/2022 18:53:13 UTC
 <!--END_SECTION:waka-->
