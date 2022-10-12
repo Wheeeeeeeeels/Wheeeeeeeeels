@@ -65,17 +65,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/www.adaboost.com-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 44 mins        █████████████████░░░░░░░░   69.88% 
-JSON                     44 mins             ███████░░░░░░░░░░░░░░░░░░   30.12%
+C++                      2 hrs 3 mins        ██████████████████░░░░░░░   72.86% 
+JSON                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   27.14%
 
 ```
 
 
- Last Updated on 11/10/2022 18:57:37 UTC
+ Last Updated on 12/10/2022 19:00:08 UTC
 <!--END_SECTION:waka-->
