@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 #### Get in touch
 ![](https://img.shields.io/badge/wheels.cs.work@gmail.com-yellowgreen)
-![](https://img.shields.io/badge/www.adaboost.com-blue)
+![](https://img.shields.io/badge/https://wheeeeeeeeels.github.io/-blue)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2016%20mins-blue)
