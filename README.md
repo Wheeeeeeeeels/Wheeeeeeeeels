@@ -66,16 +66,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/https://wheeeeeeeeels.github.io/-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      3 mins              █████████████████████████   100.0%
+Java                     6 hrs 35 mins       ███████████████████░░░░░░   78.77% 
+XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+C++                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
+Properties               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 ```
 
 
- Last Updated on 27/10/2022 18:55:01 UTC
+ Last Updated on 28/10/2022 10:52:08 UTC
 <!--END_SECTION:waka-->
