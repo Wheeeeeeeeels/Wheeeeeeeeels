@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/https://wheeeeeeeeels.github.io/-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2044%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -81,5 +81,5 @@ GitIgnore file           11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2022 18:46:06 UTC
+ Last Updated on 17/11/2022 18:45:17 UTC
 <!--END_SECTION:waka-->
