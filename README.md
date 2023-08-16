@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/https://wheeeeeeeeels.github.io/-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2032%20mins-blue)
+![image](https://wakatime.com/badge/user/f9d8cb0e-9e6d-48a5-8886-5301acbbe4e9.svg)
 
 📊 **This Week I Spent My Time On** 
 
