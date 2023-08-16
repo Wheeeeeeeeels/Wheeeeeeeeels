@@ -78,6 +78,8 @@ Markdown                 2 mins              ░░░░░░░░░░░�
 
 ```
 
+![image](https://wakatime.com/badge/user/f9d8cb0e-9e6d-48a5-8886-5301acbbe4e9.svg)
+
 
  Last Updated on 21/02/2023 18:40:44 UTC
 <!--END_SECTION:waka-->
