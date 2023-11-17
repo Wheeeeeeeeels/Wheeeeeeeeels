@@ -66,7 +66,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/https://wheeeeeeeeels.github.io/-blue)
 
 <!--START_SECTION:waka-->
+
 ![image](https://wakatime.com/badge/user/f9d8cb0e-9e6d-48a5-8886-5301acbbe4e9.svg)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
