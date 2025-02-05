@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/TypeScript-purple?logo=TypeScript)
 
 ![](https://camo.githubusercontent.com/b28933df61eeb6f25f4fa2e9db3ebe74b555bf13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666)
-![](https://camo.githubusercontent.com/b49580734a952ce83591f98927b2beeddfcb814b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666)
-![](https://img.shields.io/badge/Caffe-purple?logo=Caffe)
 
 ![](https://img.shields.io/badge/Unity-lightgrey?logo=Unity)
 ![](https://img.shields.io/badge/UE5-lightgrey?logo=UnrealEngine)
