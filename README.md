@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Latex-purple?logo=Latex)
 
 ##### Recent Attention
+![](https://img.shields.io/badge/DeepSeek-blue?logo=DeepSeek)
 ![](https://img.shields.io/badge/OceanBase-green?logo=oceanbase)
 ![](https://img.shields.io/badge/RisingWave-red?logo=risingwave)
 ![](https://img.shields.io/badge/LLVM-grey?logo=llvm)
