@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 ##### [深度学习系统],[具身智能],[分布式系统],[数据库内核],[计算机图形学]
-##### I'm a Multilingual developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>Natural Language Processing, Computer Graphics,Distributed Systems and Programming Language Theory</i></b>.
+##### I'm a Multilingual developer,open-source enthusiast and a freelance computer science researcher. I focused/am focusing on <b><i>LLMs, Computer Graphics,Distributed Systems and Programming Language Theory</i></b>.
 ##### Some awesome communities I'm involved with:
 ![](https://img.shields.io/badge/CodeForces-grey?logo=CodeForces)![](https://img.shields.io/badge/Kaggle-grey?logo=Kaggle)![](https://img.shields.io/badge/TopCoder-grey?logo=TopCoder)![](https://img.shields.io/badge/Codewars-grey?logo=Codewars)
 
